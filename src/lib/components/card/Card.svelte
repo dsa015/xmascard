@@ -38,6 +38,7 @@
 <style>
 	section {
 		perspective: 1000px;
+		word-break: break-all;
 	}
 
 	div {

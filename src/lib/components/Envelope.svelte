@@ -26,6 +26,7 @@
 		padding: 1rem;
 
 		margin: auto;
+		max-width: 20rem;
 	}
 
 	button {
